@@ -1,1 +1,2 @@
 # ADNSU
+JavaScript dosyalari ucun
